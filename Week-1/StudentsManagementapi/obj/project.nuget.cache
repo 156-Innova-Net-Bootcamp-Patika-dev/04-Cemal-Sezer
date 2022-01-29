@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YOwnQokxbzqaZulfYuc8+tEXeYbn/HoBxAAHGaU7fkw+6CH1CgDMkUSR50jXx+KsX6QHqxrUKI3I9bttaFQtLg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cemal\\Desktop\\Dotnet-Bootcamp\\week-1\\StudentManagement\\StudentsManagementapi\\StudentsManagementapi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cemal\\.nuget\\packages\\bogus\\34.0.1\\bogus.34.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
